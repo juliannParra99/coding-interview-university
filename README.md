@@ -554,13 +554,69 @@ Alright, enough talk, let's learn!
 But don't forget to do coding problems from above while you learn!
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
+>[!NOTE]
+>Note
+
+>[!TIP]
+>TEST
+
+>[!iMPORTANT]
+>test
+
+>[!WARNING]
+>test
+
+>[!CAUTION]
+>test
 
 - Nothing to implement here, you're just watching videos and taking notes! Yay!
 - There are a lot of videos here. Just watch enough until you understand it. You can always come back and review.
 - Don't worry if you don't understand all the math behind it.
 - You just need to understand how to express the complexity of an algorithm in terms of Big-O.
+
+>[!NOTE]
+>Diferentiation between liner search and different ways to make the algorithm faster; pros an con
+>
+>Algorithm efficiency isn't measured in real-time but rather in a uniform way called asymptotic complexity.
+>
+>Asymptotic notation, like 'Big Oh notation,' describes how an algorithm's runtime grows with input size towards infinity. How change how fast it works with more elements to the infinite
+>
+>Algorithms can run in various complexities like O(n) for linear time, O(1) for constant time, or O(n^2) for quadratic time.
+>
+>Different algorithms excel under specific scenarios; for instance, binary search operates in O(log n) time.
+>
+>Notation like Ω represents best-case scenarios (lower bounds), O denotes worst-case scenarios (upper bounds), and Θ signifies when best and worst cases are identical for an algorithm's runtime complexity.
+>
+
+>[!IMPORTANT]
+>Importan Alghorithmss: 
+>Linear Time Algorithms (O(n)):
+>Algorithm for counting characters in a string linearly (walking through each character).
+>Linear search (walking through each element in an array to find a specific one).
+>
+>Constant Time Algorithm (O(1)):
+>Storing the length of a string in a variable before accessing the string itself for length retrieval.
+>
+>Quadratic Time Algorithm (O(n^2)):
+>Algorithms that grow quadratically, significantly slower than linear time as the input size increases.
+>
+>Logarithmic Time Algorithm (O(log n)):
+>Binary search algorithm for finding elements in a sorted list by repeatedly halving the search space.
+>
 - [X] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+>[!WARNING]
+>Important: he provide examples of the most important algorithms ; It emphasizes the importance of understanding scalability over mere speed. It's pretty useful  And we can to find other channells to study the same topics as well
+>
+>-Constant Time (O(1)): Represents algorithms with constant execution time, regardless of the input size. Example: Adding an item to an array in constant time.
+>
+>-Linear Time (O(n)): Algorithms whose execution time scales linearly with the input size. Example: Linear search, where each element is checked in sequence.
+>
+>-Quadratic Time (O(n^2)): Algorithms whose execution time scales quadratically with the input size. Example: Bubble sort, which has nested iterations leading to a quadratic relationship between the number of elements and time complexity.
+>
+>Logarithmic Time (O(log n)): Algorithms whose execution time increases logarithmically relative to the input size. Example: Binary search, which efficiently halves the search space in each iteration.
+>
+>-Linearithmic Time (O(n log n)): Algorithms that exhibit a time complexity of n times logarithm of n. Example: Quicksort, a comparison-based sorting algorithm that divides the input into smaller parts and applies recursive sorting.
+- [X] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
