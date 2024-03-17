@@ -620,7 +620,10 @@ But don't forget to do coding problems from above while you learn!
 >[!IMPORTANT]
 >Good explanation About the matemathic which we use when we work with Big O notation; we see cuadratic functions and logarithms. And Lograrithmic Time, (O(log n), when  the algorithm's performance improves as the input size increases, but at a diminishing rate.
 - [X] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
-- [ ] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
+>[!IMPORTANT]
+> explanation about interpreting the Big O notation in terms of upper and low limits where a function works or it's moving it. It's about how to see the Big O notation in terms of
+>linear functions, which operates between different ranges (highest and lowest)
+- [X] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
 - [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] TopCoder (includes recurrence relations and master theorem):
