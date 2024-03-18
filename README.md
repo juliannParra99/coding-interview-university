@@ -624,7 +624,11 @@ But don't forget to do coding problems from above while you learn!
 > explanation about interpreting the Big O notation in terms of upper and low limits where a function works or it's moving it. It's about how to see the Big O notation in terms of
 >linear functions, which operates between different ranges (highest and lowest)
 - [X] [Skiena (video)](https://www.youtube.com/watch?v=z1mkCe3kVUA)
-- [ ] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+>[!IMPORTANT]
+>big O notation represents the upper bannds in a function. The lecture provides the example in which you get the data from our disk and the time it take to get it.
+>Big O notation  expresses a relationship between two functions.
+>The class is useful but, a bunch of past lectures express the same basically.
+- [X] [UC Berkeley Big O (video)](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
