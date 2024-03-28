@@ -634,6 +634,9 @@ But don't forget to do coding problems from above while you learn!
 >Binary counter
 >the logical thinking behin this can help to determine the running time of our algorithm in a good way
 - [X] [Amortized Analysis (video)](https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+>[!IMPORTANT]
+>good articles to explain Computationalcomplexity , and see how Big o works and some definitions; and see how the runtime is affected when the size of
+>data in an input increase, using different algorithms to show those examples
 - [ ] TopCoder (includes recurrence relations and master theorem):
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
