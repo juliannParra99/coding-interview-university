@@ -642,7 +642,9 @@ But don't forget to do coding problems from above while you learn!
 	>time complexity for recursive programs. In essence, this will lead to finding the order of growth for solutions of recurrence equations; and applied to some sort algorithms
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
-- [ ] [Cheat sheet](http://bigocheatsheet.com/)
+>[!IMPORTANT]
+>Amazing Big-O cheat sheet (visual):  Common data structure operations + Array Sorting Algorithms
+- [X] [Cheat sheet](http://bigocheatsheet.com/)
 - [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
 
 Well, that's about enough of that.
