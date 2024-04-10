@@ -637,7 +637,9 @@ But don't forget to do coding problems from above while you learn!
 >[!IMPORTANT]
 >good articles to explain Computationalcomplexity , and see how Big o works and some definitions; and see how the runtime is affected when the size of
 >data in an input increase, using different algorithms to show those examples
-- [ ] TopCoder (includes recurrence relations and master theorem):
+- [X] TopCoder (includes recurrence relations and master theorem):
+	>[!IMPORTANT]
+	>time complexity for recursive programs. In essence, this will lead to finding the order of growth for solutions of recurrence equations; and applied to some sort algorithms
     - [Computational Complexity: Section 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
     - [Computational Complexity: Section 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 - [ ] [Cheat sheet](http://bigocheatsheet.com/)
