@@ -645,7 +645,9 @@ But don't forget to do coding problems from above while you learn!
 >[!IMPORTANT]
 >Amazing Big-O cheat sheet (visual):  Common data structure operations + Array Sorting Algorithms
 - [X] [Cheat sheet](http://bigocheatsheet.com/)
-- [ ] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
+>[!IMPORTANT]
+>Concise and nice review to have an idea about how all the topics we saw work, in 5 minutes
+- [X] [[Review] Big-O notation in 5 minutes (video)](https://youtu.be/__vX2sjlpXU)
 
 Well, that's about enough of that.
 
